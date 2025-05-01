@@ -6,4 +6,4 @@ while(i<=10):
     sum=sum+i
     i=i+1
     
-print("the sum of the first nutural number",sum)
+print("the sum of the first nutural numbers",sum)
